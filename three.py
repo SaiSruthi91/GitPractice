@@ -3,4 +3,4 @@ def my_function(a, b):
     c = a + b
     print(c)
 
-my_function(2, 3)
+my_function(50, 100)
